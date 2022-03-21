@@ -1,5 +1,20 @@
 body{
     text-align: center;
-    color: brown;
+    color: rgb(56, 56, 56);
     font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #000;
+    margin: 0 auto;
+}
+
+#container h1{
+    font-size: 20px;
 }
